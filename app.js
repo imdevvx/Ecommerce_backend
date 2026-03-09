@@ -30,7 +30,7 @@ app.use('/api/address', addressRoutes)
 
 
 app.get('/', (req, res) => {
-res.status(200).json({msg: "Server is listening.."})
+    res.status(200).json({ msg: "Ecommerce backend server is listening.." })
 })
 
 
