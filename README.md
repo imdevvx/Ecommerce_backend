@@ -153,6 +153,11 @@ npm run dev
 
 - RESTful API structure
 
+## 📢 Important Note
+
+- ⚠️ OTP emails may land in your Spam/Junk folder as a custom domain is not configured yet.
+- 🚧 The frontend will be available soon.
+
 ## 🤝 Contributions
 
 This is a personal production-level project, so contributions aren’t expected —
