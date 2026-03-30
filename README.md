@@ -167,4 +167,4 @@ but feedback, suggestions, and improvements are always welcome!
 
 DEV
 
-Created by [syncdecodes](https://github.com/syncdecodes)
+Created by [imdevvx](https://github.com/imdevvx)
