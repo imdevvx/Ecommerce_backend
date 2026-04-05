@@ -107,8 +107,8 @@ The backend uses MongoDB with the following models:
 
 ### 1. Clone the repository
 ```
-git clone https://github.com/syncdecodes/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/imdevvx/Ecommerce_backend.git
+cd Ecommerce_backend
 ```
 ### 2. Install dependencies
 ``` 
