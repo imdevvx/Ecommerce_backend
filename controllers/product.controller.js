@@ -35,8 +35,13 @@ const getProducts = async (req, res) => {
 
 
         // color filter
-        if (req.query.color){
+        if (req.query.color) {
             filter.color = req.query.color
+        }
+
+        // bestseller filter
+        if (req.query.bestseller === "true") {
+            filter.isBestSeller = true
         }
 
 

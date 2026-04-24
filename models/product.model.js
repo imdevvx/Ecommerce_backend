@@ -29,6 +29,10 @@ const productModel = mongoose.Schema(
             type: [String],
             enum: ["28", "30", "32", "34", "36", "38"]
         },
+        isBestSeller: {
+            type: Boolean, 
+            default: false
+        },
         isActive: {
             type: Boolean,
             default: true
